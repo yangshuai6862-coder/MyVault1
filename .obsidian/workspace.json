@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "db8c9552ab5121fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b97f552e4a4e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99421cd7798749b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/ai-updates/2026-04-20 AI日报.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-20 AI日报"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fadb0fa8367ba6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d8ebd552d97261",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fd9797ac2046b58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "879cf5801dab5ea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#index",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3ebe843f548b4853",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "ad781a981cd4fe4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "457968f053d9934c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9bc15a0c04e05b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CLAUDE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CLAUDE 的出链列表"
+            }
+          },
+          {
+            "id": "0e181428c33bec51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "dfa3f757a3d10f1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/ai-updates/2026-04-20 AI日报.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-04-20 AI日报 的大纲"
+            }
+          },
+          {
+            "id": "6bed614789706640",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d3b33ee25c91b8db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "88f9d06026193660",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CLAUDE.md"
+              },
+              "icon": "lucide-info",
+              "title": "CLAUDE的笔记属性"
+            }
+          },
+          {
+            "id": "02fc8cbce8348827",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "a1fbfb859879f96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CLAUDE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CLAUDE 的反向链接列表"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "d99421cd7798749b",
+  "lastOpenFiles": [
+    "wiki/market/Amazon运营操作/应对恶意添加违禁词、敏感词.md",
+    "wiki/ai-updates/2026-04-20 AI日报.md",
+    "wiki/market/Amazon运营操作/亚马逊商品成人信息&标记应对.md",
+    "wiki/market/Amazon运营操作/亚马逊商品安全问题绩效快速处理方案.md",
+    "wiki/market/App-research/Wellnote安卓版市场调研报告.md",
+    "wiki/market/metapen/B09ZTXVNVD Keywords position.md",
+    "wiki/market/metapen/Bestseller.md",
+    "wiki/My-Skills.md",
+    "wiki/Scheduled Tasks.md",
+    "wiki/ai-updates/2026-04-17 AI日报.md",
+    "wiki/ai-updates/2026-04-16 AI日报.md",
+    "wiki/ai-updates/_index.md.tmp.25884.1776409336059",
+    "wiki/ai-updates/2026-04-15 AI日报.md",
+    "wiki/ai-updates/2026-04-14 AI日报.md",
+    "CLAUDE.md",
+    "wiki/market/Amazon-research/电动黑胡椒研磨瓶品类调研.md",
+    "wiki/market/Amazon-research/Electric Grill Brush品类调研.md",
+    "My-Skills.md",
+    "wiki/log.md",
+    "wiki/hot.md",
+    "wiki/index.md",
+    "wiki/compilation/_index.md",
+    "wiki/market/_index.md",
+    "wiki/market/metapen/关键词排位分析-2026-04-15.md",
+    "wiki/market/metapen",
+    "App-research",
+    "wiki/market/App-research",
+    "wiki/patent/一种支持在任何表面书写的触控笔.md",
+    "wiki/patent/一种支持语音与手写输入的触控笔.md",
+    "wiki/patent/一种基于图像识别与语音采集的智能笔系统及方法_发明专利.md",
+    "wiki/market/Amazon市场分析/Electric Grill Brush品类调研.md.tmp.20088.1776255727562",
+    "wiki/patent/generate_patent_docx.js",
+    "wiki/patent/generate_patent.js",
+    "wiki/ai-updates",
+    "Attachments/Pasted image 20260414140315.png",
+    "Attachments/笔嘴1.jpg",
+    "wiki/market/Amazon-research",
+    "wiki/compilation",
+    "Attachments/POA模板_截图1.png",
+    "Attachments/笔嘴2.jpg",
+    "Attachments/apple pencil tip.jpg",
+    "Attachments/apple pencil pro 1.jpg",
+    "Attachments/haptic.jpg",
+    "Attachments/Apple pencil pro.jpg",
+    "Attachments/apple touch.jpg",
+    "Attachments/Pasted image 20260413161046.png",
+    "未命名.canvas"
+  ]
+}

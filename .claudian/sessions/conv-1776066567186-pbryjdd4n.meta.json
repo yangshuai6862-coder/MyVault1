@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776066567186-pbryjdd4n",
+  "providerId": "claude",
+  "title": "帮我把这个文档中的链接的图片，都下载到本地的Attachment文件夹，然后替换掉原有的链接图片",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776066567187,
+  "updatedAt": 1776068857106,
+  "lastResponseAt": 1776067871985,
+  "sessionId": "945fa8b8-8038-468a-9c60-de8d2e7f578d",
+  "providerState": {
+    "providerSessionId": "945fa8b8-8038-468a-9c60-de8d2e7f578d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 41825,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 41825,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

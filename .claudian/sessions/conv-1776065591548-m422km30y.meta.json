@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776065591548-m422km30y",
+  "providerId": "claude",
+  "title": "Convert web images to local files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776065591552,
+  "updatedAt": 1776068865471,
+  "lastResponseAt": 1776068772205,
+  "sessionId": "65916424-4295-4cce-aa5b-d66cc25dfedd",
+  "providerState": {
+    "providerSessionId": "65916424-4295-4cce-aa5b-d66cc25dfedd"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 48981,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 48981,
+    "percentage": 24
+  }
+}

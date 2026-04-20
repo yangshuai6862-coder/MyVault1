@@ -1,12 +1,23 @@
 ---
 type: meta
 title: "Wiki Log"
-updated: 2026-04-17
+updated: 2026-04-20
 ---
 
 # Wiki Log
 
 Append-only chronological record. New entries at the top. Never edit past entries.
+
+## 2026-04-20
+
+- **AI-UPDATE**: 生成 [[2026-04-20 AI日报]]
+  - 核心：GPT-5.5预览版发布、Gemini 3.5 Ultra、DeepSeek V4正式发布、NVIDIA H200全面量产、全球首个AI版权判决
+  - 更新 [[ai-updates/_index]]、[[log]]
+- **BESTSELLER-UPDATE**: 更新 Amazon Bestseller 排名
+  - 大类排名：Metapen A8 #38、Apple Pencil Pro #50、Apple Pencil USB-C #66、JAMJAKE #55
+  - 子类排名：Metapen A8 #1、Apple Pencil Pro #3、JAMJAKE #4、Apple Pencil USB-C #5、Hastraith #9
+  - 更新 [[market/metapen/Bestseller]]
+- **CONFIG**: 全局添加Git自动推送权限，无需手动确认
 
 ## 2026-04-17
 

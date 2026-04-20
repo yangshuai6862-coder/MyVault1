@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776088360507-sh2okcow2",
+  "providerId": "claude",
+  "title": "Organize patent notes by template",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776088360531,
+  "updatedAt": 1776134207560,
+  "lastResponseAt": 1776134207560,
+  "sessionId": "11becf2b-5e3a-4d42-a8f0-b2bd66a312f5",
+  "providerState": {
+    "providerSessionId": "11becf2b-5e3a-4d42-a8f0-b2bd66a312f5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
